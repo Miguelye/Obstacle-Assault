@@ -1227,3 +1227,22 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.16-22.41.52:909][241]LogFileHelpers: InternalPromptForCheckoutAndSave took 305 ms
 [2023.10.16-22.41.52:913][241]AssetCheck: New page: Asset Save: Main
 [2023.10.16-22.41.52:913][241]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
+[2023.10.16-22.42.21:852][353]LogDerivedDataCache: C:/Users/migue/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.284 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3735 files in 5422 folders with total size 231 MiB.
+[2023.10.16-22.47.29:781][631]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.10.16-22.48.02:270][492]LogLiveCoding: Display:    Creating library D:\Unreal Engine Project\Obstacle-Assault\ObstacleAssault\Binaries\Win64\UnrealEditor-ObstacleAssault.patch_0.lib and object D:\Unreal Engine Project\Obstacle-Assault\ObstacleAssault\Binaries\Win64\UnrealEditor-ObstacleAssault.patch_0.exp
+[2023.10.16-22.48.02:478][497]LogClass: UPackage /Script/ObstacleAssault Reload.
+[2023.10.16-22.48.02:478][497]LogClass: UClass MovingPlatform Reload.
+[2023.10.16-22.48.02:478][497]LogClass: Could not find existing class MovingPlatform in package /Script/ObstacleAssault for reload, assuming new or modified class
+[2023.10.16-22.48.02:490][497]Re-instancing MovingPlatform after reload.
+[2023.10.16-22.48.02:564][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.10.16-22.48.02:643][498]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2023.10.16-22.48.02:643][498]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2023.10.16-22.49.33:060][633]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.10.16-22.49.51:795][794]LogLiveCoding: Display:    Creating library D:\Unreal Engine Project\Obstacle-Assault\ObstacleAssault\Binaries\Win64\UnrealEditor-ObstacleAssault.patch_1.lib and object D:\Unreal Engine Project\Obstacle-Assault\ObstacleAssault\Binaries\Win64\UnrealEditor-ObstacleAssault.patch_1.exp
+[2023.10.16-22.49.52:018][799]LogClass: UPackage /Script/ObstacleAssault Reload.
+[2023.10.16-22.49.52:018][799]LogClass: UClass MovingPlatform Reload.
+[2023.10.16-22.49.52:018][799]LogClass: Could not find existing class MovingPlatform in package /Script/ObstacleAssault for reload, assuming new or modified class
+[2023.10.16-22.49.52:028][799]Re-instancing MovingPlatform after reload.
+[2023.10.16-22.49.52:095][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.10.16-22.49.52:194][800]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2023.10.16-22.49.52:194][800]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
