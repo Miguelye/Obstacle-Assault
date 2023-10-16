@@ -14,14 +14,19 @@ AMovingPlatform::AMovingPlatform()
 // Called when the game starts or when spawned
 void AMovingPlatform::BeginPlay()
 {
-	Super::BeginPlay();
-	
+	Super::BeginPlay(); 
+
+	SetActorLocation(myVector);
 }
 
 // Called every frame
 void AMovingPlatform::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
+
+	myVector.X++;
+
+	SetActorLocation(myVector);
 
 }
 

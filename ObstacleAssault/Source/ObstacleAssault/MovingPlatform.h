@@ -24,11 +24,12 @@ public:
 	virtual void Tick(float DeltaTime) override;
 
 	UPROPERTY(EditAnywhere)
-	int32 MyInt = 99;
+	FVector myVector;
 
 	UPROPERTY(EditAnywhere)
-	float MyFloat = 99.1;
-
+	float myX;
 	UPROPERTY(EditAnywhere)
-	bool MyBool = true;
+	float myY;
+	UPROPERTY(EditAnywhere)
+	float myZ;
 };
